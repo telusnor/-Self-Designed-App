@@ -261,7 +261,7 @@ function StackScreen() {
         name="Home"
         component={HomeScreen}
         options={{
-          title: 'My home',
+          title: 'My phone',
           headerStyle: {
             backgroundColor: '#f4511e',
           },
